@@ -5,7 +5,7 @@ Unpacked 为未封包的文件。
 
 # 2021.11.9, 1:02AM
 **Title**： ふたば☆ちゃんねる4.5 / Futaba☆Channel 4.5 / 双叶☆频道4.5  
-**State**： Completed，Unreleased  
+**State**： Completed，Released  
 **Note**： 还原被汉化组修改的CG，去除无用汉化文本，去除hook dll，恢复脚本控制标题，适配日文原版。  
 **Publisher**： T.S.WORKS汉化  
 **Engine**： Yu-ris 0.464  
